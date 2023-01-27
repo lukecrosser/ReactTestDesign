@@ -35,9 +35,7 @@ function Chat() {
                             <div className="chat-bubble bg-blue-600">Thank you! I hand coded it using React and TailwindCss which
                                 are components for Javascript
                             </div>
-                            <div className="chat-footer opacity-50">
-                                Seen at 12:46
-                            </div>
+
                         </div>
 
                         <div className="chat chat-start">
